@@ -1,0 +1,2 @@
+class InningName < ApplicationRecord
+end
