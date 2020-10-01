@@ -1,2 +1,0 @@
-class BattingOrder < ApplicationRecord
-end
